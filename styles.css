@@ -1,0 +1,95 @@
+.contenedorpadre {background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.contenedorshrek {
+    order: 5;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: flex-start; 
+    height: 90%;
+    padding: 10px 20px 15px 10px;
+
+    background-color: rgba(122, 230, 194, 0.787);
+
+    align-self: center;
+
+    margin: 15px 15px 15px 15px;
+}
+
+.contenedorburro {
+    order: 3;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: flex-start; 
+    height: 90%;
+    padding: 15px 20px 15px 10px;
+
+    background-color: rgba(122, 230, 194, 0.787);
+
+    align-self: center;
+    
+    margin: 15px 15px 15px 15px;
+}
+
+.contenedorfiona {
+    order: 1;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: flex-start; 
+    height: 90%;
+    padding: 10px 20px 350px 10px;
+
+     
+
+    background-color: rgba(122, 230, 194, 0.787);
+
+    margin: 15px 15px 15px 15px;
+}
+
+.contenedorgato {
+    order: 2;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: flex-end; 
+    height: 90%;
+    padding: 10px 20px 15px 10px;
+
+    background-color: rgba(122, 230, 194, 0.787);
+
+    
+    margin: 15px 15px 15px 15px;
+
+    align-self: flex-end;
+}
+
+.contenedorpinocho {
+    order: 4;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: flex-start; 
+    height: 90%;
+    padding: 10px 20px 15px 10px;
+
+    background-color: rgba(122, 230, 194, 0.787);
+
+    
+    margin: 15px 15px 15px 15px;
+}
+
+
+
+img {max-width: 50px;
+    max-height: 100px;
+    height: 100px;
+    width: 150px;
+}
+
+
